@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "93d8bd22-9615-4540-9264-a1de5fa7769a",
+    "site": "myntra",
+    "cookies": [
+      {
+        "name": "__cf_bm",
+        "value": "Vl2IUl9bM94pT6lGPROTIpZxxhrn.TN8PE6dJDFtNHA-1759853907-1.0.1.1-si0s2SF73pnpVV2RGRoZXCAlLNEo6hkhIer0QreRq5xMCs6VBajtEtRjaGtR8d5WxhfeyKZMUErCvxWYGEp_lcj3L2Tad7fWzVHp3XHZBfU",
+        "domain": ".izooto.com",
+        "path": "/",
+        "expires": 1759855708,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "at",
+        "value": "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNklqRWlMQ0owZVhBaU9pSktWMVFpZlEuZXlKdWFXUjRJam9pTTJZME56TTJZVGd0WVRNNU9TMHhNV1l3TFRreE5EQXRZakpoTVRFek0yUTNaak0wSWl3aVkybGtlQ0k2SW0xNWJuUnlZUzB3TW1RM1pHVmpOUzA0WVRBd0xUUmpOelF0T1dObU55MDVaRFl5WkdKbFlUVmxOakVpTENKaGNIQk9ZVzFsSWpvaWJYbHVkSEpoSWl3aWMzUnZjbVZKWkNJNklqSXlPVGNpTENKbGVIQWlPakUzTnpVME1EVTVNRE1zSW1semN5STZJa2xFUlVFaWZRLmFuVGtsb3NhZy1kQldOT1ZkVEFNRWk5SExLeldJTE1neXJKNThWd2FZWkk=",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1775924305,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utm_track_v1",
+        "value": "%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22direct%22%2C%22trackstart%22%3A1759853903%2C%22trackend%22%3A1759853963%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759853965,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_session",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759855705,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_d_id",
+        "value": "21f92c72-f346-40d5-8138-6be97c0fc595",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1794413905,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sz",
+        "value": "87B68AD0EFBE6AD92802758294CCCE21~YAAQrpUvF9oLIqSZAQAAuX93vx1XhgFTquwZFbuA6tnAwqdWBgA0tbthzdNwrZRb7E+kZIJF6aJ6L6FmIIvc7PUIPcTWbVTIumoOFY3Tlh3kXWJB6BmyBCYFMT8fVVvnPa5pscIocJMdc14XO/m37UdqJoK1BcOVZE9981DqLzOCeYA4cq9bRsHBn+U63ByUimjYinydCY3kaIZl/6xqpTfyRbB2So5sNFYM2+4eFAzoazSVhNV7kIZJ2pb20LOwN3tCm/+8IM606u5JAckRuNTkv7T5RY+zgZDLe+07Dt/aBUMWRlfrUQY0f6iGL5NZ4DafpMw+gVGSKXWW220ugr61chwlD9jIRSDnGLjqn6IJ48tcSb8cksJK2OIapCi4ct8D7Jo0YBekLaGrFw==~4473410~3224130",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759868305,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-eupv",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1775405906,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_mxab_",
+        "value": "config.bucket%3Dregular%3Bcoupon.cart.channelAware%3DchannelAware_Enabled%3Bcart.cartfiller.personalised%3Denabled",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759855706,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_pv",
+        "value": "default",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759854206,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "dp",
+        "value": "d",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759854266,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "microsessid",
+        "value": "444",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759855706,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_timeout",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759855706,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utrid",
+        "value": "BkoEdHZ1RkxXZxB1GRxAMCMzMjQxMzE5NzQ4JDI%3D.0830eded3c934cc25ee3936eaa94270e",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1775405906,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_xsrf",
+        "value": "JYskXL6q2W0Ye0jyOP24POftk4zmX2ME",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1791389906,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "user_session",
+        "value": "S7dZ0hWJ7RC1d2OWCGtyPA.E_IwaDGSy5q6W_cIy_TgPgGOS53qR6yTRONrWRHnYHaOM05VXGcAoM3oqmz4hxXXxLIWYb7HXoisg_5mTu6jw-92TCFwOpc3uStapcZt0viEGzUrc1dC7oLLM6OA2FNov9ptglyHqxFRXJ8mspgQ-g.1759853905141.86400000.wT3pypxEDz5U16c67Aa8o56g2iAGG-KXewyTZDtFQUc",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759854506,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-ulc-api",
+        "value": "pincode%3A682508",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1794413907,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-loc-src",
+        "value": "expiry%3A1759855347548%7Csource%3AIP",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1794413907,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_ma_session",
+        "value": "%7B%22id%22%3A%22dc072c3d-e9ab-46ef-b8d0-2c1b75fd26ff-21f92c72-f346-40d5-8138-6be97c0fc595%22%2C%22referrer_url%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_channel%22%3A%22direct%22%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759855707,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "x-mynt-pca",
+        "value": "qyIriu-Ij_33Yxooi4KaFP-wBY93p2Fmvb15bhCSmA8QnvuYmY5xFd63916K2yBfEGf8JCBg2uFOrerSg0H_XKG9dLightvXNkcVcXFgWhPHbp3KPclf8M0adKOnEWngALyNnJSdfrih3js3sJKBkVVzKINdf1vKhNZ-7PJXwlVzPsajew%3D%3D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1794413907,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1989716436.1759853908",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1767629907,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "tvc_VID",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1794413907,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sv",
+        "value": "DD80A5393C8B23D031EAD8A78D01AC97~YAAQrpUvF/kMIqSZAQAAb4p3vx3l1NAAAYfeFDIx2gITDRQkMN78GfLcP9MfdkCKvmph2EcGvR3BqXx7KxRsz8tbXuH+VqSSAMXQZpdUYIb7c6toADDfYIr9Va+AhP8c5ZA8Q6ZFo/GTajIBIodtRv0cyzLvya8xeX1qC8F4xo1VaxvoPITJpUFZLeqPL6PBYq+mLHCzc2N/DV83/DKDMZ4twdGnW/+2se+equCkjMNJEn0Urc1cYcK8mvXKARjY~1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759861107,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "ak_bmsc",
+        "value": "181BAC6A2D69BA7E5750489E21E66CF2~000000000000000000000000000000~YAAQrpUvF/wMIqSZAQAAeYp3vx11XVsF2g3Yx84tbgXNjSTb8HuZ/wlp0q53PCA3X6Pl8EI3TpGK28AghA3dug4tBNmAIUOQKAYE/1buvPMQpz3GCqVSshLSRyxxLxX6cINPUB/cQcLHKG6EwO9kzC8LYKQHYXuF3WF2mAO6L7CXT4t+6miTqgS/GCWvIXBkx/njqIsH/BmWm7dgGMstVI1bDpcORXcYPfYrAnHDVqAKgwP3HM9QcjZSJhOCr1livtrgaZL0q3TO7ZYXF5e3n9hFGtqcC763Ph697DeLdj6hIc1+083lvan0/tFUTuF6bL7CIrfpjXBAe23nL8MdSx6QKeK5GDcg0hAaWlCOspgKiEdsVi78+e3BY0xY3D9iLJhod8ELb7dqos7QgCH0d9OLoDl0G1kHkRTGaCYw52UErKB12A8e+RXKn/SzaQOXtw5ZFC/8hVhB3Q5qGmz2M8Gxxx+iJyJBhs5YgFpQl01mt6l+dn8eSjUQIiI3aWI=",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1759861105,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_abck",
+        "value": "DA745BAE08D68729759C50C02A5C8A66~-1~YAAQrpUvFykNIqSZAQAAQIx3vw7GqfE+cIbrv94UTqk4DYnE/vvXo52TAu8vYpjj7pdG5RbObp32vilhOkrdd/7G8fPAP06tDUjlsshva6mBrYkhJU4xt2U5+ZGxtwtB+EKqwwPjSYBS8H8KLP4SLDs2ZLZjoeUMpWa1i2YHaAxBJGBkgphbfo0MQQbt0ccSdPipDfW/3+SfUWxE1ZWXkwUaW+ckVBiz895/FaTLpE564gDcLUNR3i3WVcyWWhO/Cx9NbOu4tbOMVtUukrOOg4pOsCYTMhi7C29Vjt06HDfjfPBA77KVIEi3BUXOwnQB56o6K1+QN82vW613aneNQ9kKSSqD4uf8mDEL1lLhILgY3vqLt6mKSi4/8kw3fQy49P/GIqgCaZJRUpuNTEmFkMqqR4/unAnGkzpY/sUFu52Zg9oVpBgZzXx+GyH2DZyE95nc/f6SGpitf3ddhsuZ4bk5F526y9xK4/bqF869XOiECc91M+4eT0eS8b5gCuXOVl7MmDjwggtEOV48Lvjx4j0SUsBo+QLJIYcPmDkVK/snGUZ+B0EVBc2PVaTYe06HRleYVi6sFoRUmJCJYBpOlCdrIcsXcA==~-1~-1~-1~AAQAAAAE%2f%2f%2f%2f%2f16CuyoeQhMt0V1v1TAgnp5Mkd1ZJL95MrwF1NLEfKD64SB4NfcS%2f7gKOAp%2fy%2f6IjbTYfu5nBFykqbedEesjIT37sc7eUjsv0Liv~-1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1791389908,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      }
+    ],
+    "created_at": "2025-10-07T16:18:30.090913",
+    "cookie_expiry": 1759853965,
+    "is_healthy": true,
+    "usage_count": 4,
+    "last_used": "2025-10-07T16:22:53.521756",
+    "failed_attempts": 0
+  },
+  {
+    "id": "8f42b281-70bb-447f-ac2b-c5961a3df7c6",
+    "site": "myntra",
+    "cookies": [
+      {
+        "name": "at",
+        "value": "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNklqRWlMQ0owZVhBaU9pSktWMVFpZlEuZXlKdWFXUjRJam9pWXpWaVptTmtZekV0WVdGaU5TMHhNV1l3TFRreE5EQXRZakpoTVRFek0yUTNaak0wSWl3aVkybGtlQ0k2SW0xNWJuUnlZUzB3TW1RM1pHVmpOUzA0WVRBd0xUUmpOelF0T1dObU55MDVaRFl5WkdKbFlUVmxOakVpTENKaGNIQk9ZVzFsSWpvaWJYbHVkSEpoSWl3aWMzUnZjbVZKWkNJNklqSXlPVGNpTENKbGVIQWlPakUzTnpZeE9EYzRNVE1zSW1semN5STZJa2xFUlVFaWZRLndiZUlmQUhxdXRoR1duOTNVd0FxSE5GeDQ3Y3ljcjcwY0VYbUhNYmVyYm8=",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1776706213,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utm_track_v1",
+        "value": "%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22direct%22%2C%22trackstart%22%3A1760635813%2C%22trackend%22%3A1760635873%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760635873,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_session",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760637613,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_d_id",
+        "value": "1903d6a8-453b-4077-be51-7a7f01f44721",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795195813,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sz",
+        "value": "C677D14FCB6509E2B2CB0CE5AE517C11~YAAQBmvJF5C0Ed6ZAQAA730S7h0YGdAHW8KumxNJI1xT+9m/UwENdpTf71LRTFBT6gwoAxNHOW34bmq0P+wzCVdzspOkXqEbhUUhC4I9ogn3I/8Ea5uXyYMFpK/P9Iv5nsU841DGaGVc147aMiaF5znwx0bcrcNKwZwMBbUTamGG0u2yq9Cma7cI+0pfDMSnEIlYFX3Kuw57djx0uJleGW9vLpPwzl5jBV1MYKtWSbfbP+J04+gCmBTy13gHJEi/iBfaLzcvYnAubs11HglnYlpdnmbvDQLNyvbKafEVwiXhwQFRkhy3YF9P7yV/DrEZcM8vURO8BMKXIkuCxTkj1+xceBDE7Qvth5Mg8Jka2+/T6u0fBtJ9VhnP1BnFuDGdkyHOXmjSDq73WKPm+5EMuMBGAuy4S9xrwX20HUz5oONjnWAu1dSYsg==~3486771~4601154",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760650213,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-eupv",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1776187814,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_mxab_",
+        "value": "config.bucket%3Dregular%3Bcoupon.cart.channelAware%3DchannelAware_Enabled%3Bcart.cartfiller.personalised%3Denabled",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760637615,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_pv",
+        "value": "default",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760636115,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "dp",
+        "value": "d",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760636175,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "microsessid",
+        "value": "836",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760637615,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_timeout",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760637615,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utrid",
+        "value": "Z1tDCQwacGACanNWDkdAMCM0MjIyMjE5MzYkMg%3D%3D.1325c9803e207a21771fb839f36a26da",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1776187815,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_xsrf",
+        "value": "jRzan7F7srZBOvZwtzxEZpcpHmyGSRxU",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1792171815,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "user_session",
+        "value": "gWCY45LvS9q6I_Mw0GpdEw.gr6s2ssSEV2-nTCrPw-ZIDzTQ3LYz37HTlpyoPmVeW8eyiSU5tnmldLFJzZIbbx_CD0BkbOox6hPbnUqPkOoZYKgY1WKYDGnevL_HTu8FDcMPl0ROVTU_OLUJHFVbVSw4SYbtnE0jA4ReTRyiT5hPw.1760635817014.86400000.3OzJhBIqVwFZOnA-9nEd_3zgsFdo6kWDtR3D4rAXu3g",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760636415,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-ulc-api",
+        "value": "pincode%3A676304",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795195816,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-loc-src",
+        "value": "expiry%3A1760637256318%7Csource%3AIP",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795195816,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "x-mynt-pca",
+        "value": "Fx8Dh_ev1igFTOwL5J6l-rjn89WS55jk_Yw_O6AsvykH_NaYOTRq5SqB0FJoRZWi4W8bV6XT1sI700OmkxKR2qTmfHjmT7js-JOCAmBg8me4ixj8C0QFC4M4htOrFs6D3ui4VbAs3RF7uG5NUZjWQGDX6mOYaa5sJHfoS7SJBueN3Z-gDqQCKSqljA%3D%3D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795195816,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_ma_session",
+        "value": "%7B%22id%22%3A%2232e2e09d-60ff-4a11-a643-35f095df57ef-1903d6a8-453b-4077-be51-7a7f01f44721%22%2C%22referrer_url%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_channel%22%3A%22direct%22%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760637616,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sv",
+        "value": "7346711FEF329FE6662028C5886697E5~YAAQBmvJF8+0Ed6ZAQAA8pIS7h1UFRzI1Bz1S0VkJZcVOSEBWpno3ND35mbKpCaYjroCeP7sNJXABbmfNo4J5Z+04wVfuBapuXIlKt3XEvS5m/pD0sMGqUOEh9AHtRvj3rclW17aUiqqH4GMMr4Q6zMk1Y+Mv8iYa+YaN6ffvfojSqWr71IVtW8FJfIujp5ougPvEf39KSR3g2yssynMHk0RahGCLGiDyov/KHb6Rxv9F0ell+sYKpFtIzmrAa2Z~1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760643015,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.2131408969.1760635817",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1768411816,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "ak_bmsc",
+        "value": "41B4D0948B1854DF8F5C7A568E5F8C06~000000000000000000000000000000~YAAQBmvJF9G0Ed6ZAQAAhJMS7h0wm3rDJxJfNPqagyDnd+rYtB47zek73IPlVsN1tvZewVE+FJsVg1SGHNB3aTiAC8e00zD067pxZvI2Y3knOG8FUbf2aud+cZZxdk/buuXjiaYZHOF51goBOs3WiKRD/XvU1bn+g+W2B2vEbnZ2qGj9kXAiU4FXIx69XPM/s6P9cSCKPf70BQ+Kb++7gEUnMWliuKvOoEYzhiMkGWFxm5UKTShNu83Egwu4YxIwbNuNncfr7/8laN3X4INSIf/H0QH1HvkHJK0/xF8YlAWJVvD6JvyP8RRN91aw9TV5J+e8SJ4wgb9Ap+Cfkmrlzg1HpRTohHkT1hnhJ6/xlB4nANDF4dZC6nnU5liDTQeRzLMy1JSfnhruIIS4DCwK0DE4c+m8Lq3Vxv3bD5vOOflF3iPjfCLnX6k1IbdM2uu2AGKrY8zywumuLQwR8Xbpx0chvSZqBtP4csj9jBZyj8jnPwIEK4qqRq7yNEA6Sh1si0L9lLRwb2jmCtIOxT/1+tpN4S1RUIblhym2",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760643012,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "tvc_VID",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795195817,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_abck",
+        "value": "2C5FB6BB1B036B8FF55A988F08485D15~-1~YAAQBmvJF9i0Ed6ZAQAArZcS7g4r6WAlHjL9CPrHAQ7gN34AN764qLIFwvmvp9arSaDBHlq5eyNlSkzmQHdGvVNgGCUaB4cBwZlOpFXNH47YZ54J4MhS+5GfieCoDwzHOqtdmoD71ognUi8QHWm6lXIKfMZwtm396b/H8hqzQ99XkboIjGV+oEPJGMbZwtLmtI/xPrj7UZbOS72SijZCEs5M00iHnf5qbO0w18N/5ENmhel+1kVPVU+TT+OKJcl6eJvV7c+WosIBsFI9oZEbQTymUMDu+4MQgc5XUiI7rqyK4QWYKyHQ+iuUhxzFHGQMHMJPwvie33o7OHUp/FzPvqx9H4p9X2yfOz5+sI8jhMsmIofyckSHGRj1fWoseA3I46gR6WzuVyNwd+gYsLB8rAEbYvHdgOK3VrXtjDHSLP8UoKKPnaZY/Jbi+ndgk8cJAJhftA/+b6I+u4GkdaXxRJaNo9K5RcnQTlqltwP8ft5Hem1pfVAy15MBoXGBGUuWg9KdjfjjtVnJS/q8nzXihhhwapL0RhC1GheAVcdPEK3KXFI8sN70TI0jbcQhdTNWHbJOSjZxXsT1ra5TzsIDXP0sf0TMgQ==~-1~-1~-1~AAQAAAAE%2f%2f%2f%2f%2fy3QuRJ0PyizvfxdcMzzlsnCKbutoS6lTU5CRpvmm+PFnAriBj8xbaGsp2wVSb2CoCJF7kpl7Scp0GiPceUvtJH75%2ft5DY%2fFUYNg~-1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1792171817,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      }
+    ],
+    "created_at": "2025-10-16T17:30:19.076721",
+    "cookie_expiry": 1760635873,
+    "is_healthy": true,
+    "usage_count": 2,
+    "last_used": "2025-10-16T17:30:23.113944",
+    "failed_attempts": 0
+  },
+  {
+    "id": "4312e5ab-ef7e-4edf-a8e1-c9cc85416f05",
+    "site": "myntra",
+    "cookies": [
+      {
+        "name": "__cf_bm",
+        "value": "krO2yB8IAlBltyhrUS0ePNmnpNqxo67YWge_3o.h0.Q-1760871803-1.0.1.1-R5C.HXQBREuvth_xCpSywWV089rbPZ4JWRwf.eZUvpKvh0LgW.N3qv631viFnW_3zJGPD5Yot2.9Yp9bu859egYBP8QmmARbMR.TGNGyF1o",
+        "domain": ".izooto.com",
+        "path": "/",
+        "expires": 1760873602,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "at",
+        "value": "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNklqRWlMQ0owZVhBaU9pSktWMVFpZlEuZXlKdWFXUjRJam9pTXpjM1l6SmtPRFF0WVdOa1lpMHhNV1l3TFdKbFpHSXRZelk1WW1NNE0yTmtaV05qSWl3aVkybGtlQ0k2SW0xNWJuUnlZUzB3TW1RM1pHVmpOUzA0WVRBd0xUUmpOelF0T1dObU55MDVaRFl5WkdKbFlUVmxOakVpTENKaGNIQk9ZVzFsSWpvaWJYbHVkSEpoSWl3aWMzUnZjbVZKWkNJNklqSXlPVGNpTENKbGVIQWlPakUzTnpZME1qTTNPVGNzSW1semN5STZJa2xFUlVFaWZRLjQ4UkNlVmRjV0VXYUhMV1ZxZXlmajVjN1c4U3NtSEpscXVjMTBCdVFoUmc=",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1776942198,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utm_track_v1",
+        "value": "%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22direct%22%2C%22trackstart%22%3A1760871797%2C%22trackend%22%3A1760871857%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760871858,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_session",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760873598,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_d_id",
+        "value": "4b4398b1-33da-4920-88c9-fe04c26b0827",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795431798,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sz",
+        "value": "FAD9A49BB6316693B5B118A183DEB2EC~YAAQz/3UF92aY9yZAQAAMVQj/B2XNYhU+E225G5I9wQzIDdWH4D9TQF5YiIHyX5KHO1nlYep1BePQo4MSYsSEySQaAsDUbBCeEOpGkq0BrjL3c925AKWwTWgTn1Y/NJmbNL0VEHFLk55EBpXNHU+3wPvhI0+n2y6pkMpAh1Pd6E1QZ5DKPAQGJYN462pZg+sYzen2nBGg/eka08OD1PA6OkWtzrx5O2x/x52efvlX+/wpJQEhTFmzmHmNRl9/wlp3+tJsnnFaHCy38p2yijIHLCj9y3vVYQtTFy4xkioNU96ubzr3szgBjwLzlvP9YCLflnQSllgycGfMrEokYXtX5NvJs7LP/ItqxGhetJCrFnQoLdrf7np52v07tgzwQ2YS2QmZY5DfPxMnZQiudX2VEq2M+LXYdGfDwzpjwRaduW4npf+XEQsSg==~3748665~3682629",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760886198,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-eupv",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1776423799,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_mxab_",
+        "value": "config.bucket%3Dregular%3Bcoupon.cart.channelAware%3DchannelAware_Enabled%3Bcart.cartfiller.personalised%3Denabled",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760873600,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_pv",
+        "value": "default",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760872100,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "dp",
+        "value": "d",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760872160,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "microsessid",
+        "value": "137",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760873600,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_timeout",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760873600,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utrid",
+        "value": "X0xiSXFkZx8GUHZKCXZAMCM5NDM1NDEyNzMkMg%3D%3D.d55d14f41129ea2c0ab20f3694ba9b96",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1776423800,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_xsrf",
+        "value": "rg8YKi7bAGAr5PsWsxAPvSUNk5bzC7nW",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1792407800,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "user_session",
+        "value": "ShrvmDs37_N2CXpOmvBUYg.UOXNm2hS19SnNv7w240IkniXtrljDnEv0N9dFXzaOx_uddapNpP0GH4CcxdKDHnIuPeWGHfsG25C6oLHRIXjX-ISS_f0g8htAIAdZFCVnjjDm7_82cIFHSGkGJ7QSkAqtKZ1yaVh_c2FaEXEmjuTYg.1760871800370.86400000.Rinl1HKUfCoHwQP6n7IFO22tXbgDG_WrIab3Vydbcpk",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760872400,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sv",
+        "value": "CEF2050B9D1048DF9F7E202E9DE2DD12~YAAQz/3UFwubY9yZAQAAeV4j/B2lPjx0bnGOOr+DqFi7yk4FkIMWKkMxisfHEzuV5+WbX1nm6KN1gzf3SKBhyoq35Y+s8gfc0v4O3unSTYGzi3V0xP9iSH/9U66qNL3YmDempMq1cVt5th/ADP1uySmCPWWgumWO56KMVFQsrbVUiTSLte/j9mL58Kl8CbY2wmnQA+zuvhyQwCcMhvG1F0/0590YiV281r9gfyYjKxZphj9ZJqT9iEbPx2Gy6u+W~1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760879000,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "ak_bmsc",
+        "value": "D848A33F6A89334845E73D8139E5830C~000000000000000000000000000000~YAAQz/3UFxybY9yZAQAAuWMj/B1Whg0buzjHh3mkdpH9nA6Ff11ouIN39LvP5CMlRpf4U4zwApwJs4uudbLepsszqIjFf2XxJYGem3j1Bb9c3Jf4N2Q8Ovfm2rUfYmORn0q+bTVyK50EhNTCqH7CXXMtoRceQ9LTkzn4vXNBXjhGKEoehVmGsUG1HIlYYlR6ZPzpthHNADIcBc/BoWFdTMWeTsQEpwTyLM8VEtfjniuj+3DHPJobZ4eb/zMDlCF59c3Os4GheRz2AbNVSdgC0V5QvXeHkb77RjCzYxYkAzfRnc3InXXTwmZa2JHmqz/GMV6KCxyGd0ZKyO2Is0zhVT2WWvQwPk9xj7DQn1/y4S8bEqtplAz+4xDB0jXJ4OFawEeMkdMntcGGbqfuXDXJO0xX35DsBDXuIBOxWg8JZEKOxJ8WTn210th4DUIHSF8OZGBvgAX5ixATwOTFqfv70jJxC3msbat1CQkY2wRm6PFlw611XUFETJ/zntqQsdj2/FA4DhQRMFqXEzgLVaUDE+Td+TQj4rk0NPbN",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760878997,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_ma_session",
+        "value": "%7B%22id%22%3A%22090defee-21a1-49da-a7e8-4abc05e2ee9f-4b4398b1-33da-4920-88c9-fe04c26b0827%22%2C%22referrer_url%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_channel%22%3A%22%22%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1760873601,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "x-mynt-pca",
+        "value": "l2I-Isfjx42QKK29UB4ZExbFm1Dq5OJ0BYxzby3AF3XARbXVrZn-8Lho-MdSYX97C1zwBiPLad1VVNjI7TUwTd-iSUKIcTmR8WH8rpoJd1PX9NruHN0%3D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795431801,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1751262919.1760871802",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1768647801,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "tvc_VID",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1795431801,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_abck",
+        "value": "57A2402B6263E65037922971506968B1~-1~YAAQz/3UFySbY9yZAQAA32cj/A5QFBWxkOnlE0H79ZTCrDTqpmMV5S+HUPSoZYsHm3v8hylpQO+zurAbwyoEPuziug7kc6q7ptOfboJuNxDZ+kNk37n4fZSB3ohuiz1HXuTc+t+d3uAbJqr66bqLlfMZz8I83lzrHVTfMScW2SaF+Y44Uxzl3EE5I3TXC68Pj61TFEp97t0H0Ab0ARXHqqfvoAnrK6szZOPMgm4JkQohPPESPdEzH6M/AAHaxYjVbFNNc/VTFgfMg6jXZciU8ZJwM/V+HSVEmN+pog3gxg4mOrmGQx4MDQ2y7TqSNH1XPFbhLrL83KiLiG3hBUqk8lc02gXfvkfH/WyGZlYhGabM7u2I+gQ4Q7UctQ2yBk8DhDLvZ9gS7z+SMuebCAQuBDEwdQHVa/GGTzyEWpo5HIJDyW41YWAoXjSM2XHoorYHcI/qthdqpXl8ixRxbyG4YJkevyy5UPBexXvXlCcxhj2yZqKqioMvaRgveYpR+FR87ZKxO3M23OUr2eBstnrOfZCt6gRjqFSewCEYW0eSBX+8qJ0YjSImRyM0gtN17TZM+ESjlqrJGvK9rod7O/lKd2wAhBj16Q==~-1~-1~-1~AAQAAAAE%2f%2f%2f%2f%2f1rRF7tQ3o6zpXMjmYoPBwyHuIMXxVi%2feC9oPaXofeTlXF2aMPfMWCqvf5D1WPJkNPmFLeiAA2jwN%2fO5G9OmqRWHaEck%2fyTBEq2X~-1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1792407801,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      }
+    ],
+    "created_at": "2025-10-19T11:03:23.157658",
+    "cookie_expiry": 1760871858,
+    "is_healthy": true,
+    "usage_count": 6,
+    "last_used": "2025-10-19T11:13:09.030489",
+    "failed_attempts": 0
+  },
+  {
+    "id": "827fc903-1333-497e-be41-b050270922b9",
+    "site": "myntra",
+    "cookies": [
+      {
+        "name": "sc_at",
+        "value": "v2|H4sIAAAAAAAAAE3GwQ3AIAwDwIki2YkxUccBlSkYvt/e63TmstBRNRg63rGQiszC6J3iW5fCw2lXm/D9FR9/8YwNQAAAAA==",
+        "domain": ".snapchat.com",
+        "path": "/",
+        "expires": 1800054423,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "X-AB",
+        "value": "83f59cad166342b7b070988e687dccd8",
+        "domain": "sc-static.net",
+        "path": "/scevent.min.js",
+        "expires": 1766444822,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "test_cookie",
+        "value": "CheckForPermission",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expires": 1766359323,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "__cf_bm",
+        "value": "LyIQIfrzFT8rZ7vEqpNCM5jt3ed04B.Xm0FyeNAqLAA-1766386105-1.0.1.1-Z7vqdDvuGGsdLqL765UVNM21HmnS5NhALmw.YgXZ_na.b5LiZtXbz06SaQP_CBiQHsB_46CxZ.55PrBgD6wehdEODPUgQa304RdYIww4AXI",
+        "domain": ".izooto.com",
+        "path": "/",
+        "expires": 1766360222,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "TapAd_TS",
+        "value": "1766386106679",
+        "domain": ".tapad.com",
+        "path": "/",
+        "expires": 1771542423,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "TapAd_DID",
+        "value": "3c08e1fd-98c2-414f-a09c-c0e81b60da0f",
+        "domain": ".tapad.com",
+        "path": "/",
+        "expires": 1771542423,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "TapAd_3WAY_SYNCS",
+        "value": "",
+        "domain": ".tapad.com",
+        "path": "/",
+        "expires": 1771542423,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "_pv",
+        "value": "default",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766358721,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "dp",
+        "value": "d",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766358781,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "at",
+        "value": "ZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNklqRWlMQ0owZVhBaU9pSktWMVFpZlEuZXlKdWFXUjRJam9pTXpZME16Sm1OR010WkdZd01pMHhNV1l3TFRrMk56VXRNell5Wm1NME5XWXpZakprSWl3aVkybGtlQ0k2SW0xNWJuUnlZUzB3TW1RM1pHVmpOUzA0WVRBd0xUUmpOelF0T1dObU55MDVaRFl5WkdKbFlUVmxOakVpTENKaGNIQk9ZVzFsSWpvaWJYbHVkSEpoSWl3aWMzUnZjbVZKWkNJNklqSXlPVGNpTENKbGVIQWlPakUzT0RFNU16Z3hNRFFzSW1semN5STZJa2xFUlVFaWZRLnowWktfMTJGdVlNdi1pRHUzaENuUHZWWU9wbzZ3UGZxc3ktMGNYQW9ROUU=",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1782428821,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utm_track_v1",
+        "value": "%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22direct%22%2C%22trackstart%22%3A1766386104%2C%22trackend%22%3A1766386164%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766358481,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_timeout",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766360221,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "lt_session",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766360221,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_d_id",
+        "value": "c99ba430-980b-4d17-8407-8e7ff388478d",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800918421,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sz",
+        "value": "30735F9A4D557F6144295CDD4853A09F~YAAQTIzQF7uONSibAQAAwvfQRB5cez7d2lj0ej9yEp23HPF0u9rKrKeDFklmZWURANoUXOGrsS4nLi3tPgi+ehSdXlc5gr7NH8YE8aswEtZ0n3BnunG7Pn2hMvOzy+SIO+fJ+LmhuB/Q6zMx3nzwF8Qh2QB6W8+/KJpP1fYzS/GODTIM2w5KozbO32yLhj3jqbJOhLQITM4FEl/FKGTNJY+0WYWYtgeAtXPc5u8oPLiv77xUS27AMXqtjA5r62sYGAVb9sa+VyjONvpbwRGFGs1dShXVnAjs96ir+O6BIFMP099eSuv0AccIeUpNw1Ss9pTPx64WkjAf7N1P6KFado86oXDl4jhDJht2hqmOrHp+Nk2I/N6EycLjat0R56JUl7a4XRhWPM2NIZUFEt7gYrbrpp8ouucsZdasFoFzQIn18R9B5LOn~3289665~4473154",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766372821,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-eupv",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1781910421,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_mxab_",
+        "value": "config.bucket%3Dregular%3Bcoupon.cart.channelAware%3DchannelAware_Enabled%3Bcart.cartfiller.personalised%3Denabled",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766360221,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "microsessid",
+        "value": "731",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766360221,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "utrid",
+        "value": "CVxHWHUQBw4GamNyYHFAMCMxODI1MjYzMzYzJDI%3D.ac5e097767b5efe6bec837b59246d272",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1781910421,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_xsrf",
+        "value": "aMK8jzDVkxAmwY13kOAHPV4NhUWZ0B2e",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1797894421,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "user_session",
+        "value": "FfnICny7D72crvM8jwEpdg.Xc7vJsiGdTIOqbam3pLPyVqvXC-T49ZCTI_GwkCnMJHIPQpVJVlfdxsbcxhYG0Meo80u__B-61SMHu-UvaBPuOGQgnW6BAJQAiodVSPleogYeTL1DoA--7aIO731zNyhkmY0YtknmWW57pfBDoAg3A.1766386104678.86400000.ZcJelT-IQTspgqEuiXwKg1B5PvyMwRRVWocR4Qh7Vys",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766359021,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_ma_session",
+        "value": "%7B%22id%22%3A%2222fd14a1-c6cb-42a6-914d-8e5c076339f1-c99ba430-980b-4d17-8407-8e7ff388478d%22%2C%22referrer_url%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_channel%22%3A%22%22%7D",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766360221,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-ulc-api",
+        "value": "pincode%3A695006",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800918421,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "mynt-loc-src",
+        "value": "expiry%3A1766359861547%7Csource%3AIP",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800918421,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "x-mynt-pca",
+        "value": "g4os8FN3sn3A4EgQuSvU1xjTIbU9MKoVm4_WA7hjDsMB5dD1SPhEiaTVIPdgqKpLb5YLM2lfNhMFFzB1_-5By7o_0DLUhBfREMYsKy46EUZeRi6OdO-Sk3LRnHgk1ZSuTVCN2-cjbFIG0iyeZExqDElTguWNjnMvnCCG6Km0ldblus4zBvwWLEB4",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800918421,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "bm_sv",
+        "value": "53848FC0200363D57A7251E4D0E44313~YAAQTIzQF+KONSibAQAAOPrQRB77uXtgS0UhSTu+Wts4fN/4ZIncH/L/p7BGaNsD5qnx/FC0xeRwHvSA/iYCWdbdgKKxzU2Ei1c7D+L+C0puLpL4HKaSk9y1VhxIkUnBtP7LEnHzvyV46jMkyTitwlvswRyFy4BtpK6SU499UFVWGsualzp80puD+0/owIvK0QYfeADdVLHc2SEfQs1VOqHtGcgUfjHxOKsUZ54FH0dctpIkJnqfx48tufO5fooG~1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766365621,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "ak_bmsc",
+        "value": "2A1D84986F4784E5E27FFDBD6FF0167A~000000000000000000000000000000~YAAQTIzQF+yONSibAQAAIPvQRB4+kF74MZJjuqK7WEW471MwAAhzqBj8z7PJotW8cFzy7ahKPh2X3+FARMJOZFjr8Sf0P+KEyd1ZmVqND92K3C4dY1RoiMkR8+jtCbChyX6pfUn9Y9YTcW2VHYRgQutT9h83VOlbiUtAp7UyK+KMG8uXHcUsmbwYMkrMZKryPRuTvbpoS7mrIZLfmC4+DKjntDtl5mHa1nRKF3tGNorC+VA+T6V6WGANMlsM8ZiubuVwCzUsOepF8SViJybvF4VkgupEZEhkUMeIOk37odIM01nxYnUr5vIro+gxX4ZiromVyi5AOTHktTvzYXj5M4irlR420Ht++RY/18GrjRTaix4CYN79wCtB+NL/Gofqpk2LaIsP89C6Ahpp6j6NSuh+TOZjypGF1UFqqpn9RzVD861oEcmaoDiSjBZBWp64o39Rr9m0FVtMrANN3xkXrATtXJujdLetQDZQhEzeS05ucNLUoRK0sUDJwI1PxYWDUKTEUX8XpX5dUtrbXcHM7wV68Ag0q1NuTQ==",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766365620,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.331644593.1766358422",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1774134421,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_cs_ex",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1768950422,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_cs_c",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800522422,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "tvc_VID",
+        "value": "1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800918422,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_scid",
+        "value": "x0URmjQ9tR84MgTF_asyGeVa3R2ElZwv",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800572822,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_scid_r",
+        "value": "x0URmjQ9tR84MgTF_asyGeVa3R2ElZwv",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800572822,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "ak_RT",
+        "value": "\"z=1&dm=myntra.com&si=4619686e-a886-4796-a4fa-4a3c9d93468e&ss=mjgc6vq1&sl=1&tt=9fg&rl=1&ld=a45\"",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1766963222,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_abck",
+        "value": "56E3B8DE66369783902F11590050E03F~-1~YAAQTIzQF1KPNSibAQAAxf/QRA/Obp0D9MxFw1ebI1qzWHnbje4RcT51GJzm/2tTmPoomfhVvTUeDeJEd8ERZFPz86TdjfPbM6uHN/riD7eupj2qRsOzU/RRrvQbGG3Zb3JQFpkjXJgHZT98bWhBqYpUsktUOhs8ApyKJkBGL1wh6GtV2LbvR5THyfRNpip0zVJxYrJQR1/siajT5i3/rSr/Hac6S56g5ZPtdPz+xl8O30iCffdI+/28u36yoWAl8hJrbhyIgOVjICy62gFzmxBxyAAuFfbZXP1YpxB5J+04KUYrHEdOSCNb89YAj0nuxtR4njafIQ5u5eEpC1jmQmvXI8gi2wjOPTipsV4qyxq+sIB8qA8pTCQszCtoCxDbC//KJLy8cnbVSGdr6tCPBw2HDzYep6yImuFH/7v7+ren9Lpm0uBTe50OozAa98u3gSB0RzEeXyq0UTo0jBXrfAKg1o3WM176uSRVT1juvU4nV0Uc7EocNGzHmWcWt7qfVCrMEiJnf8WF9d6htGPclIYLKs5kSgQrvHfd4m6DvtYuvmJgVzqSOqkAJkzouNxJQKDCzh9bf0wwgur2c0qFDkXIwN/r8FzzFokGqVWdwNd9~-1~-1~-1~AAQAAAAE%2f%2f%2f%2f%2f%2fUo611UgP%2fTiR1s3wTUQH9JSq3Ub7UTltFncbK1xf1EdUCnq3rdjecANRKgqCS6GY6g+7DyYd+IULlTeLYNM2GBY0fBJr3BnRls~-1",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1797894423,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "_fbp",
+        "value": "fb.1.1766358423120.774490309517211370",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1774134423,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "None"
+      },
+      {
+        "name": "_sctr",
+        "value": "1%7C1766341800000",
+        "domain": ".myntra.com",
+        "path": "/",
+        "expires": 1800572823,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "created_at": "2025-12-21T23:07:05.064684",
+    "cookie_expiry": 1766358481,
+    "is_healthy": true,
+    "usage_count": 6,
+    "last_used": "2025-12-21T23:14:29.978370",
+    "failed_attempts": 0
+  }
+]
